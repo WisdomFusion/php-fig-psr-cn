@@ -8,51 +8,51 @@ PHP-FIG PSR 目前接受的规范列表如下：
 
 - [PSR-0 Autoloading Standard](PSR-0.md)
 
-  PSR-0 Autoloading 规范（已弃用）**zh_CN**
+  PSR-0 Autoloading 规范（已弃用）**中文版**
 
 - [PSR-1 Basic Coding Standard](PSR-1-basic-coding-standard.md)
 
-  PSR-1 基本编码规范 **zh_CN**
+  PSR-1 基本编码规范 **中文版**
 
 - [PSR-2 Meta Document](PSR-2-coding-style-guide-meta.md)
 
-  PSR-2 代码风格规范补充 **zh_CN**
+  PSR-2 代码风格规范补充 **中文版**
 
 - [PSR-2 Coding Style Guide](PSR-2-coding-style-guide.md)
 
-  PSR-2 代码风格规范补充 **zh_CN**
+  PSR-2 代码风格规范补充 **中文版**
 
 - [PSR-3 Logger Interface](PSR-3-logger-interface.md)
 
-  PSR-3 日志接口 **zh_CN**
+  PSR-3 日志接口 **中文版**
 
 - [Example Implementations of PSR-4](PSR-4-autoloader-examples.md)
 
-  PSR-4 autoloader 实例 **zh_CN**
+  PSR-4 autoloader 实例 **中文版**
 
 - [PSR-4 Meta Document](PSR-4-autoloader-meta.md)
 
-  PSR-4 autoloader 补充 **zh_CN**
+  PSR-4 autoloader 补充 **中文版**
 
 - [PSR-4 Autoloader](PSR-4-autoloader.md)
 
-  PSR-4 autoloader **zh_CN**
+  PSR-4 autoloader **中文版**
 
 - [PSR-Cache Meta Document](PSR-6-cache-meta.md)
 
-  PSR-6 缓存规范补充 **zh_CN**
+  PSR-6 缓存规范补充 **中文版**
 
 - [PSR-6 Cache](PSR-6-cache.md)
 
-  PSR-6 缓存规范 **zh_CN**
+  PSR-6 缓存规范 **中文版**
 
 - [HTTP Message Meta Document](PSR-7-http-message-meta.md)
 
-  PSR-7 HTTP 消息接口补充 **zh_CN**
+  PSR-7 HTTP 消息接口补充 **中文版**
 
 - [HTTP message interfaces](PSR-7-http-message.md)
 
-  PSR-7 HTTP 消息接口 **zh_CN**
+  PSR-7 HTTP 消息接口 **中文版**
 
 下面是 PHP-FIG 的 PSR 项目 README 中的说明，这里引用一下：
 
