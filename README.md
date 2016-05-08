@@ -8,33 +8,33 @@
 
 - [PSR-1 Basic Coding Standard](PSR-1-basic-coding-standard.md)
 
-  PSR-1 基本编码规范（中文版）
+  [PSR-1 基本编码规范](PSR-1-basic-coding-standard_zh-CN.md)（中文版）
 
 - [PSR-2 Coding Style Guide](PSR-2-coding-style-guide.md)
 
-  PSR-2 代码风格规范补充（中文版）
+  [PSR-2 代码风格规范](PSR-2-coding-style-guide_zh-CN.md)（中文版）
 
 - [PSR-3 Logger Interface](PSR-3-logger-interface.md)
 
-  PSR-3 日志接口（中文版）
+  [PSR-3 日志接口](PSR-3-logger-interface_zh-CN.md)（中文版）
 
 - [PSR-4 Autoloader](PSR-4-autoloader.md)
 
-  PSR-4 autoloader（中文版）
+  [PSR-4 autoloader](PSR-4-autoloader_zh-CN.md)（中文版）
 
 - [PSR-6 Cache](PSR-6-cache.md)
 
-  PSR-6 缓存规范（中文版）
+  [PSR-6 缓存](PSR-6-cache_zh-CN.md)（中文版）
 
 - [HTTP message interfaces](PSR-7-http-message.md)
 
-  PSR-7 HTTP 消息接口（中文版）
+  [PSR-7 HTTP 消息接口](PSR-7-http-message_zh-CN.md)（中文版）
 
 需要说明的是，在翻译的时候，英文原版 Markdown 文件在仓库中保留，中文版另起一个新文件。
 
 下面是 PHP-FIG 的 PSR 项目 README 中的说明，这里引用一下：
 
-## PHP 框架互操作小组
+## PHP 框架互操作小组（PHP-FIG）
 
 组建本小组的目的是，通过在各项目的代表之间讨论他们共同的编码规范，以制定一个协作标准。本规范的主要面向对象是本小组的各个组成成员，当然，同时也欢迎关注本规范的其它PHP社区采用本规范。
 
