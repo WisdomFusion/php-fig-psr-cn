@@ -2,45 +2,57 @@
 
 ## 简介
 
-最近在整理 PHP 开发过程中的规范问题、安全编码问题、缓存等性能问题，等等，在涉及代码风格方向的规范时，本想对 PSR 作一个摘要性的总结。不过，在实施过程中发现条目过多，不如直接整理翻译 PSR，也正好弥补目前 PSR 中文版不全的问题。
+最近在整理 PHP 开发过程中的需要注意的编码规范、最佳实践、安全编码问题、缓存等性能问题，等等，在涉及代码风格方向的规范时，本想对 PSR 作一个摘要性的总结。不过，在实施过程中发现条目过多，不如直接整理翻译 PSR，也正好弥补目前 PSR 中文版不全的问题。
 
 PHP-FIG PSR 目前接受的规范列表如下：
 
-- PSR-0.md
-  PSR-0 Autoloading 规范（已弃用）
+- [PSR-0 Autoloading Standard](PSR-0.md)
 
-- PSR-1-basic-coding-standard.md
-  PSR-1 基本编码规范
+  PSR-0 Autoloading 规范（已弃用）**zh_CN**
 
-- PSR-2-coding-style-guide-meta.md
-  PSR-2 代码风格规范补充
+- [PSR-1 Basic Coding Standard](PSR-1-basic-coding-standard.md)
 
-- PSR-2-coding-style-guide.md
-  PSR-2 代码风格规范补充
+  PSR-1 基本编码规范 **zh_CN**
 
-- PSR-3-logger-interface.md
-  PSR-3 日志接口
+- [PSR-2 Meta Document](PSR-2-coding-style-guide-meta.md)
 
-- PSR-4-autoloader-examples.md
-  PSR-4 autoloader 实例
+  PSR-2 代码风格规范补充 **zh_CN**
 
-- PSR-4-autoloader-meta.md
-  PSR-4 autoloader 补充
+- [PSR-2 Coding Style Guide](PSR-2-coding-style-guide.md)
 
-- PSR-4-autoloader.md
-  PSR-4 autoloader
+  PSR-2 代码风格规范补充 **zh_CN**
 
-- PSR-6-cache-meta.md
-  PSR-6 缓存规范补充
+- [PSR-3 Logger Interface](PSR-3-logger-interface.md)
 
-- PSR-6-cache.md
-  PSR-6 缓存规范
+  PSR-3 日志接口 **zh_CN**
 
-- PSR-7-http-message-meta.md
-  PSR-7 HTTP 消息接口补充
+- [Example Implementations of PSR-4](PSR-4-autoloader-examples.md)
 
-- PSR-7-http-message.md
-  PSR-7 HTTP 消息接口
+  PSR-4 autoloader 实例 **zh_CN**
+
+- [PSR-4 Meta Document](PSR-4-autoloader-meta.md)
+
+  PSR-4 autoloader 补充 **zh_CN**
+
+- [PSR-4 Autoloader](PSR-4-autoloader.md)
+
+  PSR-4 autoloader **zh_CN**
+
+- [PSR-Cache Meta Document](PSR-6-cache-meta.md)
+
+  PSR-6 缓存规范补充 **zh_CN**
+
+- [PSR-6 Cache](PSR-6-cache.md)
+
+  PSR-6 缓存规范 **zh_CN**
+
+- [HTTP Message Meta Document](PSR-7-http-message-meta.md)
+
+  PSR-7 HTTP 消息接口补充 **zh_CN**
+
+- [HTTP message interfaces](PSR-7-http-message.md)
+
+  PSR-7 HTTP 消息接口 **zh_CN**
 
 下面是 PHP-FIG 的 PSR 项目 README 中的说明，这里引用一下：
 
