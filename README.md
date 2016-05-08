@@ -1,10 +1,10 @@
-# PHP Standard Recommendation (PSR) 中文版
+# PSR (PHP Standard Recommendation) 中文版
 
 ## 简介
 
 最近在整理 PHP 开发过程中的需要注意的编码规范、最佳实践、安全编码问题、缓存等性能问题，等等，在涉及代码风格方向的规范时，本想对 PSR 作一个摘要性的总结。不过，在实施过程中发现条目过多，不如直接整理翻译 PSR，也正好弥补目前 PSR 中文版不全的问题。
 
-PHP-FIG PSR 目前接受的规范列表如下（弃用内容及补充部分详看 `accepted` 目录）：
+由 PHP-FIG (PHP Framework Interoperability Group) 发起的 PSR 目前接受的规范列表如下（弃用内容及补充部分详看 `accepted` 目录）：
 
 - [PSR-1 Basic Coding Standard](PSR-1-basic-coding-standard.md)
 
@@ -41,7 +41,7 @@ PHP-FIG PSR 目前接受的规范列表如下（弃用内容及补充部分详�
 
 可以通过以下方式给本规范提交建议:
 
-- fork [PSR 代码库][]，创建并检出一个分支，在 `proposed/` 下添加 规范建议，然后 push 分支到 Github，最后给我们发送一个 pull request；又或者
+- fork [PSR代码库][]，创建并检出一个分支，在 `proposed/` 下添加 规范建议，然后 push 分支到 Github，最后给我们发送一个 pull request；又或者
 
 - 在 Github 下新建一个讨论 ticket；又或者
 
