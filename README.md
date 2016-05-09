@@ -4,31 +4,31 @@
 
 最近在整理 PHP 开发过程中的需要注意的编码规范、最佳实践、安全编码问题、缓存等性能问题，等等，详见 [php-specs](https://github.com/WisdomFusion/php-specs) 这个 Git 仓库，在涉及代码风格方向的规范时，本想对 PSR 作一个摘要性的总结。不过，在实施过程中发现条目过多，不如直接整理翻译 PSR，也正好弥补目前 PSR 中文版不全的问题。
 
-由 PHP-FIG (PHP Framework Interoperability Group) 发起的 PSR 目前接受的规范列表如下（弃用内容及补充部分详看 `accepted` 目录）：
+由 PHP-FIG (PHP Framework Interoperability Group) 发起的 PSR 目前接受的规范列表如下（弃用内容及补充部分详看 `accepted/` 目录）：
 
-- [PSR-1 Basic Coding Standard](PSR-1-basic-coding-standard.md)
+- [PSR-1 Basic Coding Standard](accepted/PSR-1-basic-coding-standard.md)
 
-  [PSR-1 基本编码规范](PSR-1-basic-coding-standard_zh-CN.md)（中文版）
+  [PSR-1 基本编码规范](accepted/PSR-1-basic-coding-standard_zh-CN.md)（中文版）
 
-- [PSR-2 Coding Style Guide](PSR-2-coding-style-guide.md)
+- [PSR-2 Coding Style Guide](accepted/PSR-2-coding-style-guide.md)
 
-  [PSR-2 代码风格规范](PSR-2-coding-style-guide_zh-CN.md)（中文版）
+  [PSR-2 代码风格规范](accepted/PSR-2-coding-style-guide_zh-CN.md)（中文版）
 
-- [PSR-3 Logger Interface](PSR-3-logger-interface.md)
+- [PSR-3 Logger Interface](accepted/PSR-3-logger-interface.md)
 
-  [PSR-3 日志接口](PSR-3-logger-interface_zh-CN.md)（中文版）
+  [PSR-3 日志接口](accepted/PSR-3-logger-interface_zh-CN.md)（中文版）
 
-- [PSR-4 Autoloader](PSR-4-autoloader.md)
+- [PSR-4 Autoloader](accepted/PSR-4-autoloader.md)
 
-  [PSR-4 autoloader](PSR-4-autoloader_zh-CN.md)（中文版）
+  [PSR-4 autoloader](accepted/PSR-4-autoloader_zh-CN.md)（中文版）
 
-- [PSR-6 Cache](PSR-6-cache.md)
+- [PSR-6 Cache](accepted/PSR-6-cache.md)
 
-  [PSR-6 缓存](PSR-6-cache_zh-CN.md)（中文版）
+  [PSR-6 缓存](accepted/PSR-6-cache_zh-CN.md)（中文版）
 
-- [HTTP message interfaces](PSR-7-http-message.md)
+- [HTTP message interfaces](accepted/PSR-7-http-message.md)
 
-  [PSR-7 HTTP 消息接口](PSR-7-http-message_zh-CN.md)（中文版）
+  [PSR-7 HTTP 消息接口](accepted/PSR-7-http-message_zh-CN.md)（中文版）
 
 需要说明的是，在翻译的时候，英文原版 Markdown 文件在仓库中保留，中文版另起一个新文件。
 
@@ -43,7 +43,7 @@
 
 可以通过以下方式给本规范提交建议:
 
-- fork [PSR代码库][]，创建并检出一个分支，在 `proposed/` 下添加 规范建议，然后 push 分支到 Github，最后给我们发送一个 pull request；又或者
+- fork [PSR代码库][]，创建并检出一个分支，在 `proposed/` 下添加规范建议，然后 push 分支到 Github，最后给我们发送一个 pull request；又或者
 
 - 在 Github 下新建一个讨论 ticket；又或者
 
